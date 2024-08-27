@@ -2,8 +2,6 @@
 
 Project made with XAML and SQLite. This project includes login, register atm. Also layout in gameview. 
 
-Video in finnish [blackjack](https://student.labranet.jamk.fi/~n3652/kayttoliityma/harjoitustyo_tietokanta.mp4)
-
 ---
 
 # TTOS0300-Harjoitustyo
@@ -63,10 +61,6 @@ oppimiset:
 kehitettävää:
 
 *Datatablesta tietojen saamista pitäisi selvitellä...
-
-## Videolinkki
-
-[Esittely video](https://student.labranet.jamk.fi/~n3652/kayttoliityma/harjoitustyo_tietokanta.mp4)
 
 ## Tekijöiden ehdotus arvosanaksi, ja perustelut sille
 
