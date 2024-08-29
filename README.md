@@ -63,9 +63,6 @@ kehitettävää:
 
 *Datatablesta tietojen saamista pitäisi selvitellä...
 
-## Videolinkki
-
-[Esittely video](https://student.labranet.jamk.fi/~n3652/kayttoliityma/harjoitustyo_tietokanta.mp4)
 
 ## Tekijöiden ehdotus arvosanaksi, ja perustelut sille
 
